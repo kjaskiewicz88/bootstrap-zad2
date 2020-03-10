@@ -1,0 +1,20 @@
+.color{
+    background-color: #fdfff0;
+    height: 600px;
+    
+}
+
+hr{
+    width: 300px;
+}
+
+.logo{
+   padding: 50px 0 0 0;
+   margin: 50px 0 0;
+   color: #7c97cb;
+}
+
+.accordion{
+    padding: 0 20px;
+}
+
